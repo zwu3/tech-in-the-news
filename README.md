@@ -11,3 +11,15 @@ A collection of news articles about technology and its impact on society.
   media platform with limited censorship, where women and non-binary people can break down
   stigmas to profit off their creative work. The app has only 100 content creators as of its
   launch, and hopes to scale slowly to keep hands-on moderation and censorship low.
+
+* [Sony Buys Bungie for $3.6 Billion](https://www.ign.com/articles/playstation-sony-buys-bungie)
+
+  Sony recently announced that it would be acquiring Bungie, the original developers of Halo and
+  current developers of Destiny 2, for 3.6 billion dollars, with 1.2 billion being paid to the studio's
+  employees. It is theorized that this 1.2 billion is intended to keep developers from leaving at this
+  time. Some also have speculated that this is in response to Microsoft's recent announcement
+  that they intend to acquire Activision Blizzard. However, that would not necessarily make sense,
+  as the purchase of such a large game studio as Bungie would take more than a couple of weeks,
+  and there is certainly more incentive for Sony to purchase a multi-playform game studio.
+  Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
+  of Zenimax Media Inc., the parent company of Bethesda.
