@@ -1,6 +1,6 @@
 * [Sunroom is an alternative creator platform empowering women to cash in](https://techcrunch.com/2022/02/02/sunroom-creator-platform-app-women/)
 
-This TechCrunch article is about Sunroom, a new social media app aiming to address the
+    This TechCrunch article is about Sunroom, a new social media app aiming to address the
 heavy content moderation many women and non-binary content creators face on popular social
 media apps, such as Instagram by building a more open-minded platform where creators,
 only women and non-binary creators as of now, can profit off their work. As the article
