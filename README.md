@@ -1,41 +1,34 @@
 # tech-in-the-news
 A collection of news articles about technology and its impact on society.
-
-* [Sunroom is an alternative creator platform empowering women to cash in](https://techcrunch.com/2022/02/02/sunroom-creator-platform-app-women/)
-
-  This TechCrunch article is about Sunroom, a new social media app aiming to address the
-  heavy content moderation many women and non-binary content creators face on popular social
-  media apps, such as Instagram by building a more open-minded platform where creators,
-  only women and non-binary creators as of now, can profit off their work. As the article
-  notes, Sunroom “isn’t trying to make another OnlyFans”. Instead, they hope to make a social
-  media platform with limited censorship, where women and non-binary people can break down
-  stigmas to profit off their creative work. The app has only 100 content creators as of its
-  launch, and hopes to scale slowly to keep hands-on moderation and censorship low.
-
-<<<<<<< HEAD
-* [6 Reasons Meta Is in Trouble](https://www.nytimes.com/2022/02/03/technology/facebook-meta-challenges.html)
-
-  *NY Times*'s article discusses possibilities to explain and foreshadow Meta's current and future troubles regarding the Metaverse, Facebook, and Instagram after their stock "plunged by more than 230 billion dollars". The current issues Meta faces includes hitting their user growth ceiling, changes in the data privacy from companies like Apple, and how new apps such as TikTok and Reels have affected their ways of making money off of their users. To begin with, Apple introduced an __App Tracking Transparency__ update to its operating system, "giving users the choice to ... let apps like Facebook monitor their online activities", disallowing them useful marketing data to make money off of ads, their most successful platform. Furthermore, apps such as Tiktok "present [Facebook with] a conundrum" due to the fact that to compete with Tiktok they have to focus on Reels, however while they have been very successful for bringing viewership to Instagram, they make the least amount of money per ad as users "tend to skip right past them". These newfound opponents of ad-space, users, and data privacy, along with Facebook's questionable funding of the Metaverse, have placed a dark cloud over Meta, scaring potential investors away leading to their stock plummet. 
-
-* [Apple Privacy Update Impact on Profits of other Companies](https://www.nytimes.com/2022/02/03/technology/apple-privacy-changes-meta.html)
-
-  This article talks about the effect that Apple's new privacy policies have had on
-  the profits of various social media companies. The new policies regard user's
-  abilities to choose the extent to which advertisers can track them, and services
-  such as Meta, Snap, Twitter, and others have expressed displeasure with these
-  policies and have since experienced lower stock prices as a result. This is an
-  interesting article because it emphasizes the conflict between ethics and profits
-  in the technology industry. It also shows that Apple has an incredible amount of
-  power over many other big technological services. 
-
-* [Sony Buys Bungie for $3.6 Billion](https://www.ign.com/articles/playstation-sony-buys-bungie)
-
-  Sony recently announced that it would be acquiring Bungie, the original developers of Halo and
-  current developers of Destiny 2, for 3.6 billion dollars, with 1.2 billion being paid to the studio's
-  employees. It is theorized that this 1.2 billion is intended to keep developers from leaving at this
-  time. Some also have speculated that this is in response to Microsoft's recent announcement
-  that they intend to acquire Activision Blizzard. However, that would not necessarily make sense,
-  as the purchase of such a large game studio as Bungie would take more than a couple of weeks,
-  and there is certainly more incentive for Sony to purchase a multi-platform game studio.
-  Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
-  of Zenimax Media Inc., the parent company of Bethesda.
+ 
+* [MIT Engineers Develop a Flexible, Paper-Thin Loudspeaker](https://scitechdaily.com/mit-engineers-develop-a-flexible-paper-thin-loudspeaker/)
+ 
+Engineers from MIT have developed a loudspeaker that can turn any surface into an active audio source. The speaker is as thin as paper with minimal distortion while using much less power that is required for a traditional loudspeaker. And the engineering approach is also different from traditional speakers. Instead of having the entire material vibrate, they use small domes on a thin layer of piezoelectric material that each vibrate independently. These speakers can be extremely useful and efficient for noise-canceling in small spaces.
+ 
+* [Bitcoin becomes official currency in Central African Republic](https://www.bbc.com/news/world-africa-61248809)
+ 
+The article claims that the Central African Republic has adopted Bitcoin as their official currency. Lawmakers from CAR unanimously agreed to make Bitcoin a legal tender, while others have expressed concerns that cryptocurrencies like Bitcoin could make it easier for criminals to launder money and that they are environmentally harmful due to their high energy consumption. Some perceive the acceptance of Bitcoin as a ploy to destabilize the CFA, which is in the midst of a power struggle between Russia and France over the resource-rich country. It can be argued it is quite irresponsible to implement cryptocurrency in CAR since only 4% of the people have access to the internet.
+ 
+* [CPC: Criminal Procedure Identification Bill raises fears of surveillance in India](https://www.bbc.com/news/world-asia-india-61015970)
+ 
+The article claims that the Criminal Procedure bill was passed in Indian Parliament in April, 2022. The bill stated that it will be mandatory for persons who have been arrested or detained to submit sensitive information, such as iris and retina scans. This information can be kept by the police for up to 75 years. Critics are concerned how dangerous it is to give the government so much power and collection of sensitive data. Governments and law enforcement agencies are increasingly using facial recognition technology, which has become a divisive topic around the world. This is especially true in totalitarian regimes where residents can be tracked via data.
+ 
+* [Major Breakthrough in Engineered Crystals Could Help Computers Run on Less Power](https://scitechdaily.com/major-breakthrough-in-engineered-crystals-could-help-computers-run-on-less-power/)
+ 
+Researchers from University of California, Berkeley, discovered a method to reduce energy used in controlling advanced silicon transistors. Researchers demonstrated how negative capacitance may be obtained in an engineered crystal made up of a layered stack of hafnium oxide and zirconium oxide that is compatible with modern silicon transistors. The study shows how the negative capacitance effect can greatly reduce the amount of voltage necessary to drive transistors, and hence the amount of energy spent by a computer, by introducing the material into model transistors. As energy used for computing grew exponentially in the past decade, this is a remarkable finding for efficient energy breakthroughs.
+ 
+* [Joystick-operated robot could help surgeons treat stroke remotely](https://www.sciencedaily.com/releases/2022/04/220413141617.htm)
+ 
+Engineers from Massachusetts Institute of Technology developed a sophisticated telerobotic system that can assist surgeons on stroke and aneurysm patients remotely. The magnetic movement robotic system can be simply operated on a joystick controller. This system can be extremely helpful if it is placed in rural areas and developing countries. With limited resources and talents, by using this technology, neurosurgeons at major medical facilities can supervise stroke patients remotely. This will be a breakthrough on implementing medical attention in rural areas, which is much easier with the necessary infrastructure and staff team.
+ 
+* [Robot that seems to convey emotion while reading](https://www.sciencedaily.com/releases/2022/03/220310100010.htm)
+ 
+Researchers at University of Tsukuba constructed a robot that can read messages for users to reduce negative emotions within texts. The robot contains shiftable weight actuated by mechanical components  that allow the robot to express simulated emotions. Through various examinations with real people, the mediator robot was able to relay frustrating messages, help users to calm down. Contemporarily, comments and communication online sometimes could be misinterpreted and misleading since the human elements like facial expressions are often missing. With such devices, possibly a smaller version in the future could be helpful towards mental health complications and social distress.
+ 
+* [Researchers develop smartphone-powered microchip for at-home medical diagnostic testing](https://www.sciencedaily.com/releases/2022/05/220502094748.htm)
+ 
+Researchers at University of Minnesota Twin Cities have developed a new microfluidic chip for disease diagnosis composed of a minimal number of components and can be simply powered by smartphone wirelessly. Researchers were able to create a microfluidic device that could function without the traditional bulky components that would be required to seal and manipulate the liquid. If this wireless technology could be low-cost and user-friendly, this would be commercially viable and could improve accessible at-home medical diagnostic testing. This could be implemented on a global scale to detect health risk at an early stage for citizens to secure their essential health benefits.
+ 
+* [Honey holds potential for making brain-like computer chips](https://www.sciencedaily.com/releases/2022/04/220405084610.htm)
+ 
+The article claims that honey could be a key element to the solution for developing brain-like computer components. The researchers were driven to demonstrate an organic way to create a neuromorphic computing system. The device the researchers designed is simple and small and shares similar characteristics with that of human neurons. The size of the honey memristor is as thin as a human hair, and the researchers are planning to develop them even on  a nanoscale. With this new discovery, it might be helpful for scientists to dive deeper into the understanding of the human cognition system. In the foreseeable future, recreating a human-like brain could be possible, which could open up immense possibilities for cloning and artificial intelligence. But we cannot oversee the fact that ethical issues should be discussed before preceding related experiments.
